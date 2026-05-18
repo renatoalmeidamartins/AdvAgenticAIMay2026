@@ -8,3 +8,4 @@
 ## Class links
 - [Repo with a lot of agentcore samples](https://github.com/awslabs/agentcore-samples/tree/main)
 - [The exercise, from the repo above, done as the class lab - Finance personal assistant](https://github.com/awslabs/agentcore-samples/tree/main/02-use-cases/finance-personal-assistant)
+- [LangGraph/langchain multi-agent example - pay attention to the definition of the graph (adding nodes and edges)](https://github.com/langchain-ai/langgraphjs/blob/main/examples/multi_agent/multi_agent_collaboration.ipynb)

@@ -3,4 +3,6 @@
 ## Access to labs and course materials
 - [Labs and materials](https://us-east-1.student.classrooms.aws.training/class/ilt%235eLUGCr5WTN2FBRx9Bbw5X)
 - [Skill builder, packed with classes](https://skillbuilder.aws/)
-- [My class documentation]()
+- [My class documentation](myClass%20Classroom%20Training%20Learner%20Guide.pdf)
+
+## Class links

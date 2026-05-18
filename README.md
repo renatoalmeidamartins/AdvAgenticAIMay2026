@@ -7,3 +7,4 @@
 
 ## Class links
 - [Repo with a lot of agentcore samples](https://github.com/awslabs/agentcore-samples/tree/main)
+- [The exercise, from the repo above, done as the class lab - Finance personal assistant](https://github.com/awslabs/agentcore-samples/tree/main/02-use-cases/finance-personal-assistant)

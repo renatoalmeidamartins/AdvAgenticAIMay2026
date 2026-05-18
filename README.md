@@ -1,5 +1,10 @@
 # AdvAgenticAIMay2026
 
+
+## My contact info
+- Linkedin -> https://www.linkedin.com/in/renatodealmeidamartins/
+- email: renatoalmeidamartins@gmail.com
+
 ## Access to labs and course materials
 - [Labs and materials](https://us-east-1.student.classrooms.aws.training/class/ilt%235eLUGCr5WTN2FBRx9Bbw5X)
 - [Skill builder, packed with classes](https://skillbuilder.aws/)

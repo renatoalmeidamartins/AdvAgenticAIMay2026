@@ -35,3 +35,4 @@
 - [TOON - token-oriented object notation](https://github.com/toon-format/toon)
 - [Prompt caching on Bedrock models](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [Efficiently using prompt caching](https://aws.amazon.com/blogs/machine-learning/effectively-use-prompt-caching-on-amazon-bedrock/)
+- [Caching with strangs](https://strandsagents.com/docs/api/typescript/CachePointBlock/)

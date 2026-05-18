@@ -20,3 +20,6 @@
 - [MCP registry in agent core](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
 - [A2A announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 - [A2A landing page](https://a2a-protocol.org/latest/)
+- Tool calling using Agentcore gateway
+  - [list, returns all the tools](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-list.html)
+  - [call, returns tools that match a specific natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)

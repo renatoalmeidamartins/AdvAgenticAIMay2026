@@ -52,3 +52,4 @@
 - [Launching cloudwatch genai observability](https://aws.amazon.com/blogs/mt/launching-amazon-cloudwatch-generative-ai-observability-preview/)
 - [Agentcore CLI](https://github.com/aws/agentcore-cli)
 - [Amazon CloudWatch application map now supports un-instrumented services discovery](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-map-un-instrumented-discovery/)
+- [Agentcore harness](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html)

@@ -44,3 +44,8 @@
 - [Agentic AI Security scoping matrix](https://aws.amazon.com/ai/security/agentic-ai-scoping-matrix/)
 - [OWASP's Agentic AI threats and mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
 - [Cedar policies in agentcore policy](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html), which can be [written in natural language](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-natural-language.html)
+- [Agentcore payments](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
+- [GenAI lens for the well architected framework](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/generative-ai-lens.html)
+- Some prescriptive guidance documents:
+  - [Generative AI inference architecture and best practices on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/gen-ai-inference-architecture-and-best-practices-on-aws/introduction.html)
+  - [Building an enterprise-ready generative AI platform on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-enterprise-ready-gen-ai-platform/introduction.html)

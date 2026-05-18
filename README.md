@@ -42,3 +42,5 @@
 - [GenAI secyrity scoping matrix](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
 - [Expanded discussion on the security scoping matrix](https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/)
 - [Agentic AI Security scoping matrix](https://aws.amazon.com/ai/security/agentic-ai-scoping-matrix/)
+- [OWASP's Agentic AI threats and mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+- [Cedar policies in agentcore policy](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html), which can be [written in natural language](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-natural-language.html)

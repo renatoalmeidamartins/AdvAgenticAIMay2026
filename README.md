@@ -25,3 +25,6 @@
   - [call, returns tools that match a specific natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
 - [Strands deep-dive](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
 - [Workflow, DAG and Graph patterns in Strands](https://strandsagents.com/docs/user-guide/concepts/multi-agent/multi-agent-patterns/)
+- [Strands agents tools](https://github.com/strands-agents/tools)
+- [State management in Strands](https://strandsagents.com/docs/user-guide/concepts/agents/state/)
+- [Session management in Strands](https://strandsagents.com/docs/user-guide/concepts/agents/session-management/)

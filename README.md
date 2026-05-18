@@ -6,3 +6,4 @@
 - [My class documentation](myClass%20Classroom%20Training%20Learner%20Guide.pdf)
 
 ## Class links
+- [Repo with a lot of agentcore samples](https://github.com/awslabs/agentcore-samples/tree/main)

@@ -28,3 +28,7 @@
 - [Strands agents tools](https://github.com/strands-agents/tools)
 - [State management in Strands](https://strandsagents.com/docs/user-guide/concepts/agents/state/)
 - [Session management in Strands](https://strandsagents.com/docs/user-guide/concepts/agents/session-management/)
+- Memory in agentcore is based on [events](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/short-term-create-event.html) and long-term [memory strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/long-term-configuring-built-in-strategies.html)
+- Strands offer [hooks](https://strandsagents.com/docs/user-guide/concepts/agents/hooks/), where you can declare code for multiple events
+- Sample implementation of hooks for [automatically storing and initializing the agent's memory](https://github.com/Vadym79/amazon-bedrock-agentcore-demos/blob/main/amazon-agentcore-runtime-to-gateway-demos/bedrock-agentcore-custom-with-short-term-memory/strands_agents_short_term_memory_hook.py)
+  

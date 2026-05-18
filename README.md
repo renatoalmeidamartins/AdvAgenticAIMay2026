@@ -38,3 +38,7 @@
 - [Caching with strangs](https://strandsagents.com/docs/api/typescript/CachePointBlock/)
 - [Sytem prompts used for the built-in memory strategies](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
 - [SummarizingConversationManager on Strands](https://strandsagents.com/docs/user-guide/concepts/agents/conversation-management/#summarizingconversationmanager)
+- [OWASP's LLM top 10](https://genai.owasp.org/llm-top-10/)
+- [GenAI secyrity scoping matrix](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
+- [Expanded discussion on the security scoping matrix](https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/)
+- [Agentic AI Security scoping matrix](https://aws.amazon.com/ai/security/agentic-ai-scoping-matrix/)

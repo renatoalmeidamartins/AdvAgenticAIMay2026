@@ -16,3 +16,7 @@
   - [Currently, MCP community has a curated list of resources, including links to server lists](https://github.com/modelcontextprotocol/servers)
     - [mcpservers.com server list](https://mcpservers.com/)
     - [Another curated server list based on number of starts for their repos](https://github.com/apappascs/mcp-servers-hub)
+  - [MCP registry](https://registry.modelcontextprotocol.io/)
+- [MCP registry in agent core](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/)
+- [A2A announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [A2A landing page](https://a2a-protocol.org/latest/)

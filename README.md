@@ -49,3 +49,6 @@
 - Some prescriptive guidance documents:
   - [Generative AI inference architecture and best practices on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/gen-ai-inference-architecture-and-best-practices-on-aws/introduction.html)
   - [Building an enterprise-ready generative AI platform on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-enterprise-ready-gen-ai-platform/introduction.html)
+- [Launching cloudwatch genai observability](https://aws.amazon.com/blogs/mt/launching-amazon-cloudwatch-generative-ai-observability-preview/)
+- [Agentcore CLI](https://github.com/aws/agentcore-cli)
+- [Amazon CloudWatch application map now supports un-instrumented services discovery](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-map-un-instrumented-discovery/)

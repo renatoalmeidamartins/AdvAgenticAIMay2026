@@ -32,3 +32,4 @@
 - Strands offer [hooks](https://strandsagents.com/docs/user-guide/concepts/agents/hooks/), where you can declare code for multiple events
 - Sample implementation of hooks for [automatically storing and initializing the agent's memory](https://github.com/Vadym79/amazon-bedrock-agentcore-demos/blob/main/amazon-agentcore-runtime-to-gateway-demos/bedrock-agentcore-custom-with-short-term-memory/strands_agents_short_term_memory_hook.py)
 - Context is king: [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [TOON - token-oriented object notation](https://github.com/toon-format/toon)
